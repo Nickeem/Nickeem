@@ -3,7 +3,7 @@
 - 🏫 I'm currently studying Computer Science at the University of the West Indies, Cave Hill Camus
 - 🌱 I’m currently learning Cloud Software Engineering in my free tinr
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me Discord: pacman#1435
+- 📫 How to reach me Discord: pacman_bb
 - 🎵 Check out my Spotify [Playlist](https://open.spotify.com/playlist/3Oxyg8Y3LVBtnZASPUAjog?si=4b3611f2587c4be1)
 - 🧑🏾‍💻 Check out my GitHub [webpage](https://nickeem.github.io/)
 
